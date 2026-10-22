@@ -1,0 +1,30 @@
+{
+  "Counterparty": "Archegos Capital Management (Sung Kook 'Bill' Hwang family office)",
+  "Total_Loss_Sustained_USD": "5.5 billion (approx. CHF 4.8 billion)",
+  "Default_Date": "March 25, 2021",
+  "Peak_Gross_Notional_Exposure_USD": "Over 24 billion",
+  "Trading_Mechanism": "Synthetic Total Return Swaps (TRS) & Contracts for Difference (CFD)",
+  "Core_Concentrations": [
+    "ViacomCBS",
+    "Discovery",
+    "Tencent Music",
+    "Baidu",
+    "GSX Techedu",
+    "Vipshop"
+  ],
+  "Paul_Weiss_Investigation": {
+    "Report_Date": "July 29, 2021",
+    "Pages": 181,
+    "Lead_Investigators": "Brad S. Karp, Claudia Hammerman, Jessica S. Carey (Paul, Weiss)",
+    "Interviews_Conducted": 80,
+    "Documents_Reviewed": "Over 10 million",
+    "Key_Failures_Identified": [
+      "Incompetent margin management: Archegos was charged static 10% margin despite concentrated, volatile single-stock swap positions.",
+      "Failure of dynamic margining: Dynamic margin framework was approved but repeatedly postponed for Archegos.",
+      "Chronic limit breaches: Persistent potential exposure (PE) and scenario stress limit excesses over many months without business escalation.",
+      "Siloed risk monitoring: Prime Services Risk (first line) and Credit Risk Management (second line) failed to communicate and challenge business heads.",
+      "Culture of short-term revenue maximization: Prioritized prime brokerage fees over obvious tail-risk warnings.",
+      "Executive accountability: Forced departure of Investment Bank CEO Brian Chin and Chief Risk Officer Lara Warner."
+    ]
+  }
+}

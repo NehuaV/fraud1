@@ -1,0 +1,35 @@
+{
+  "Announcement_Date": "Sunday, March 19, 2023",
+  "Effective_Merger_Date": "June 12, 2023",
+  "Acquiring_Entity": "UBS Group AG",
+  "Acquired_Entity": "Credit Suisse Group AG",
+  "Legal_Mechanism": "Swiss Federal Council Emergency Ordinance (Articles 184 and 185 of Swiss Federal Constitution), suspending shareholder voting rights",
+  "Exchange_Ratio": "1 UBS share for every 22.48 Credit Suisse shares",
+  "Total_Purchase_Consideration_CHF": "3.0 billion (approx. USD 3.25 billion)",
+  "Implied_Share_Price_at_Deal_CHF": 0.76,
+  "Friday_Pre_Deal_Close_Price_CHF": 1.86,
+  "Discount_to_Friday_Close_Pct": 59.1,
+  "Peak_Share_Price_Feb_2021_CHF": 13.4,
+  "Total_Market_Cap_Destruction_Pct": 94.3,
+  "Saudi_National_Bank_SNB_Position": {
+    "Capital_Injected_Nov_2022_CHF": "1.5 billion",
+    "Stake_Percentage": "9.9%",
+    "Purchase_Price_Per_Share_CHF": 3.82,
+    "Implied_Value_at_Merger_CHF": "300 million",
+    "Estimated_Capital_Loss_CHF": "1.2 billion (-80.1% loss in under 4 months)"
+  },
+  "AT1_Bail_In_Write_Down": {
+    "Total_Nominal_Amount_Written_Down_CHF": "15.6 billion (approx. USD 17.0 billion)",
+    "Accounting_Gain_Recognized_in_1Q23_CHF": "15.007 billion",
+    "Ordering_Authority": "Swiss Financial Market Supervisory Authority (FINMA)",
+    "Legal_Controversy": "Complete write-down of Tier 1 subordinated debt to zero while common equity holders received CHF 3B, upending standard creditor priority hierarchy (absolute priority rule) and sparking multi-billion dollar lawsuits in Swiss, US, and UK courts."
+  },
+  "Swiss_State_and_Central_Bank_Liquidity_Support": {
+    "SNB_Emergency_Liquidity_Assistance_ELA_CHF": "50 billion",
+    "SNB_ELA_Plus_Preferential_Bankruptcy_Status_CHF": "100 billion",
+    "Public_Liquidity_Backstop_PLB_CHF": "100 billion",
+    "Total_Potential_Central_Bank_Liquidity_CHF": "250 billion",
+    "Actual_Peak_Drawn_Balance_as_of_March_31_2023_CHF": "108 billion",
+    "Federal_Loss_Protection_Guarantee_for_UBS_CHF": "9 billion (for losses on non-core portfolio exceeding CHF 5 billion, later terminated voluntarily by UBS in August 2023)"
+  }
+}
