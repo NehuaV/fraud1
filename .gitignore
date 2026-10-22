@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Downloads
+credit_suisse_archive_downloads/*.pdf
+credit_suisse_archive_downloads/*.part
+
