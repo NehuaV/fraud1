@@ -13,3 +13,5 @@ wheels/
 credit_suisse_archive_downloads/*.pdf
 credit_suisse_archive_downloads/*.part
 
+/report/figures/
+data/
